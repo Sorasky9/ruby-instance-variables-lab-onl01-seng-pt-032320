@@ -10,4 +10,8 @@ def name
   @this_dogs_name
 end
 
+lassie.new
+lassie.name = "Lassie"
+
+puts lassie.name
 end
