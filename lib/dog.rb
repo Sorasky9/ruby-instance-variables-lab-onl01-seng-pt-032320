@@ -7,4 +7,3 @@ lassie.name = "Lassie"
 lassie.name
 
 end
-end
