@@ -12,7 +12,7 @@ def name
 
 end
 end
-lassie.new
+lassie = Dog.new
 lassie.name = "Lassie"
 
 puts lassie.name
